@@ -4,7 +4,132 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2910f068-31e5-42e7-887f-64f00d883975" name="Changes" comment="" />
+    <list default="true" id="2910f068-31e5-42e7-887f-64f00d883975" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.3rd-VGProgram-Boys/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.3rd-VGProgram-Boys/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Player.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/Animations.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Player/Animations.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/Animations/AnimatorPlayer.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Player/Animations/AnimatorPlayer.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/Animations/AnimatorPlayer.controller.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Player/Animations/AnimatorPlayer.controller.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/Animations/BootyDance.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Player/Animations/BootyDance.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/Animations/Die.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Player/Animations/Die.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/Animations/Evade.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Player/Animations/Evade.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/Animations/Idle.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Player/Animations/Idle.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/Animations/Jump.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Player/Animations/Jump.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/Animations/Jump111.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Player/Animations/Jump111.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/Animations/Jump111.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Player/Animations/Jump111.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/Animations/Jumping.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Player/Animations/Jumping.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/Animations/LeftStrafe.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Player/Animations/LeftStrafe.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/Animations/Player.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Player/Animations/Player.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/Animations/Push.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Player/Animations/Push.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/Animations/Rolling.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Player/Animations/Rolling.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/Animations/Running.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Player/Animations/Running.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/Animations/SnakeDance.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Player/Animations/SnakeDance.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/Animations/Walk.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Player/Animations/Walk.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Player/Player.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/Player.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Player/Player.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/Script.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Player/Script.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/Script/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Player/Script/PlayerController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/Script/PlayerController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Player/Script/PlayerController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/Textures.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Player/Textures.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/Textures/Mremireh O Desbiens.dae" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Player/Textures/Mremireh O Desbiens.dae" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/Textures/Mremireh O Desbiens.dae.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Player/Textures/Mremireh O Desbiens.dae.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/Textures/textures.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Player/Textures/textures.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/Textures/textures/mremireh_body__diffuse.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Player/Textures/textures/mremireh_body__diffuse.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/Textures/textures/mremireh_body_normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Player/Textures/textures/mremireh_body_normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/Textures/textures/mremireh_body_specular.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Player/Textures/textures/mremireh_body_specular.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/Textures/textures/mremireh_shoe_diffuse.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Player/Textures/textures/mremireh_shoe_diffuse.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/Textures/textures/mremireh_shoe_normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Player/Textures/textures/mremireh_shoe_normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/Textures/textures/mremireh_shoe_specular.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Player/Textures/textures/mremireh_shoe_specular.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Color.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Color.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Diffuse.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Diffuse.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Glossiness.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Glossiness.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Materials.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Materials.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Materials/Color.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Materials/Color.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Materials/Color.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Materials/Color.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Materials/Diffuse.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Materials/Diffuse.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Materials/Diffuse.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Materials/Diffuse.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Materials/Glossiness.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Materials/Glossiness.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Materials/Glossiness.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Materials/Glossiness.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Materials/Metallic.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Materials/Metallic.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Materials/Metallic.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Materials/Metallic.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Materials/Roughness.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Materials/Roughness.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Materials/Roughness.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Materials/Roughness.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Materials/Specular.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Materials/Specular.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Materials/Specular.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Materials/Specular.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Materials/normal.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Materials/normal.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Materials/normal.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Materials/normal.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Metallic.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Metallic.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Roughness.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Roughness.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Specular.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/Specular.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/ambient occlusion.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/ambient occlusion.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/candlestick.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/candlestick.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/candlestick.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/candlestick.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/1 candles.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/1 candles.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/1 candles.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/1 candles.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (0 candles, 1 sticks).obj" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (0 candles, 1 sticks).obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (0 candles, 1 sticks).obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (0 candles, 1 sticks).obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (0 candles, 2 sticks).obj" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (0 candles, 2 sticks).obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (0 candles, 2 sticks).obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (0 candles, 2 sticks).obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (1 candles, 1 sticks).obj" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (1 candles, 1 sticks).obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (1 candles, 1 sticks).obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (1 candles, 1 sticks).obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (1 candles, 2 sticks).obj" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (1 candles, 2 sticks).obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (1 candles, 2 sticks).obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (1 candles, 2 sticks).obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (2 candles, 1 sticks).obj" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (2 candles, 1 sticks).obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (2 candles, 1 sticks).obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (2 candles, 1 sticks).obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (2 candles, 2 sticks).obj" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (2 candles, 2 sticks).obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (2 candles, 2 sticks).obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (2 candles, 2 sticks).obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (3 candles, 1 sticks).obj" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (3 candles, 1 sticks).obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (3 candles, 1 sticks).obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (3 candles, 1 sticks).obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (3 candles, 2 sticks).obj" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (3 candles, 2 sticks).obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (3 candles, 2 sticks).obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (3 candles, 2 sticks).obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (4 candles, 1 sticks).obj" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (4 candles, 1 sticks).obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (4 candles, 1 sticks).obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (4 candles, 1 sticks).obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (4 candles, 2 sticks).obj" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (4 candles, 2 sticks).obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (4 candles, 2 sticks).obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (4 candles, 2 sticks).obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (5 candles, 1 sticks).obj" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (5 candles, 1 sticks).obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (5 candles, 1 sticks).obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (5 candles, 1 sticks).obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (5 candles, 2 sticks).obj" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (5 candles, 2 sticks).obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (5 candles, 2 sticks).obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick (5 candles, 2 sticks).obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick with a skull (0 candles, 1 sticks).obj" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick with a skull (0 candles, 1 sticks).obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick with a skull (0 candles, 1 sticks).obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick with a skull (0 candles, 1 sticks).obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick with a skull (0 candles, 2 sticks).obj" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick with a skull (0 candles, 2 sticks).obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick with a skull (0 candles, 2 sticks).obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick with a skull (0 candles, 2 sticks).obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick with a skull (2 candles, 1 sticks).obj" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick with a skull (2 candles, 1 sticks).obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick with a skull (2 candles, 1 sticks).obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick with a skull (2 candles, 1 sticks).obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick with a skull (2 candles, 2 sticks).obj" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick with a skull (2 candles, 2 sticks).obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick with a skull (2 candles, 2 sticks).obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick with a skull (2 candles, 2 sticks).obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick with a skull (4 candles, 1 sticks).obj" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick with a skull (4 candles, 1 sticks).obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick with a skull (4 candles, 1 sticks).obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick with a skull (4 candles, 1 sticks).obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick with a skull (4 candles, 2 sticks).obj" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick with a skull (4 candles, 2 sticks).obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick with a skull (4 candles, 2 sticks).obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/candlestick_obj/option_candlestick_obj/Candlestick with a skull (4 candles, 2 sticks).obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Brains.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Brains.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Brains/IndividualFBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Brains/IndividualFBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Brains/IndividualFBX/Brain01.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Brains/IndividualFBX/Brain01.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Brains/Materials.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Brains/Materials.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Brains/Materials/BrilloCerebro.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Brains/Materials/BrilloCerebro.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Brains/Materials/BrilloCerebro.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Brains/Materials/BrilloCerebro.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Brains/Textures.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Brains/Textures.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Brains/Textures/BrainBaseColor.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Brains/Textures/BrainBaseColor.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Craftpix-DefenceTower.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Craftpix-DefenceTower.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Craftpix-DefenceTower/fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Craftpix-DefenceTower/fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Craftpix-DefenceTower/fbx/Rig_unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Craftpix-DefenceTower/fbx/Rig_unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Craftpix-DefenceTower/fbx/Rig_unity/ballista_tower_LVL_2.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Craftpix-DefenceTower/fbx/Rig_unity/ballista_tower_LVL_2.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Craftpix-DefenceTower/fbx/Rig_unity/cannon_tower_LVL_4_rig.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Craftpix-DefenceTower/fbx/Rig_unity/cannon_tower_LVL_4_rig.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Craftpix-DefenceTower/fbx/Rig_unity/wizard_tower_LVL_3_rig.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Craftpix-DefenceTower/fbx/Rig_unity/wizard_tower_LVL_3_rig.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Craftpix-DefenceTower/fbx/Shells.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Craftpix-DefenceTower/fbx/Shells.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Craftpix-DefenceTower/fbx/Shells/Archer_shell_LVL_3.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Craftpix-DefenceTower/fbx/Shells/Archer_shell_LVL_3.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Craftpix-DefenceTower/fbx/Shells/Cannom_shell.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Craftpix-DefenceTower/fbx/Shells/Cannom_shell.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Craftpix-DefenceTower/fbx/Shells/Wizars_shell.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Craftpix-DefenceTower/fbx/Shells/Wizars_shell.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Craftpix-DefenceTower/texture.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Craftpix-DefenceTower/texture.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Craftpix-DefenceTower/texture/Texture_MAp_fortress_elves.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Craftpix-DefenceTower/texture/Texture_MAp_fortress_elves.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/HealthBar.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/HealthBar.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/HealthBar.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/HealthBar.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ScoreBar.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ScoreBar.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ScoreBar.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ScoreBar.cs.meta" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,35 +141,35 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Test.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2w6GjEmKPYt5lhGxOlqZWyvcNhH" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Jonatanesp-1-0&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\Xonathan\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
-      "C:\\Users\\Xonathan\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
-      "C:\\Users\\Xonathan\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\Xonathan\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\Xonathan\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\Xonathan\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.0.47f1\Editor\Unity.exe" />
@@ -92,6 +217,7 @@
       <option name="presentableId" value="Default" />
       <updated>1745354744987</updated>
       <workItem from="1745354747213" duration="857000" />
+      <workItem from="1745417777060" duration="9000" />
     </task>
     <servers />
   </component>
