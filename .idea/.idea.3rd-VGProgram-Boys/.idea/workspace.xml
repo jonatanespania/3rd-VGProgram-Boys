@@ -4,7 +4,113 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2910f068-31e5-42e7-887f-64f00d883975" name="Changes" comment="" />
+    <list default="true" id="2910f068-31e5-42e7-887f-64f00d883975" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.3rd-VGProgram-Boys/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.3rd-VGProgram-Boys/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Tomb/Tomb.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Tomb/Tomb.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/New Terrain 5.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/New Terrain 5.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/FantasyEnvironments/Environments/Materials/Plant.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/FantasyEnvironments/Environments/Materials/Plant.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/FantasyEnvironments/Environments/Materials/Rock1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/FantasyEnvironments/Environments/Materials/Rock1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/FantasyEnvironments/Environments/Materials/Rock2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/FantasyEnvironments/Environments/Materials/Rock2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/FantasyEnvironments/Environments/Materials/Rock3.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/FantasyEnvironments/Environments/Materials/Rock3.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/FantasyEnvironments/Environments/Materials/Stone.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/FantasyEnvironments/Environments/Materials/Stone.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Halloween - AstrofishGames/DETAILED_Halloween/Materials/CandleFlame.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Halloween - AstrofishGames/DETAILED_Halloween/Materials/CandleFlame.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Halloween - AstrofishGames/DETAILED_Halloween/Materials/D_Halloween_Bench.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Halloween - AstrofishGames/DETAILED_Halloween/Materials/D_Halloween_Bench.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Halloween - AstrofishGames/DETAILED_Halloween/Materials/D_Halloween_BonePile.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Halloween - AstrofishGames/DETAILED_Halloween/Materials/D_Halloween_BonePile.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Halloween - AstrofishGames/DETAILED_Halloween/Materials/D_Halloween_Coffin.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Halloween - AstrofishGames/DETAILED_Halloween/Materials/D_Halloween_Coffin.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Halloween - AstrofishGames/DETAILED_Halloween/Materials/D_Halloween_GraveHands.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Halloween - AstrofishGames/DETAILED_Halloween/Materials/D_Halloween_GraveHands.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Halloween - AstrofishGames/DETAILED_Halloween/Materials/D_Halloween_MetalBucket.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Halloween - AstrofishGames/DETAILED_Halloween/Materials/D_Halloween_MetalBucket.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Halloween - AstrofishGames/DETAILED_Halloween/Materials/D_Halloween_MudGrave.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Halloween - AstrofishGames/DETAILED_Halloween/Materials/D_Halloween_MudGrave.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Halloween - AstrofishGames/DETAILED_Halloween/Materials/D_Halloween_PumpkinBlobs.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Halloween - AstrofishGames/DETAILED_Halloween/Materials/D_Halloween_PumpkinBlobs.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Halloween - AstrofishGames/DETAILED_Halloween/Materials/D_Halloween_PumpkinPieces.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Halloween - AstrofishGames/DETAILED_Halloween/Materials/D_Halloween_PumpkinPieces.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Halloween - AstrofishGames/DETAILED_Halloween/Materials/D_Halloween_Pumpkins.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Halloween - AstrofishGames/DETAILED_Halloween/Materials/D_Halloween_Pumpkins.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Halloween - AstrofishGames/DETAILED_Halloween/Materials/D_Halloween_Skulls.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Halloween - AstrofishGames/DETAILED_Halloween/Materials/D_Halloween_Skulls.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Halloween - AstrofishGames/DETAILED_Halloween/Materials/D_Halloween_VoodooDoll.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Halloween - AstrofishGames/DETAILED_Halloween/Materials/D_Halloween_VoodooDoll.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Halloween - AstrofishGames/DETAILED_Halloween/Materials/MDungeons_Candles_Y.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Halloween - AstrofishGames/DETAILED_Halloween/Materials/MDungeons_Candles_Y.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Halloween - AstrofishGames/DETAILED_Halloween/Materials/MDungeons_Ladel.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Halloween - AstrofishGames/DETAILED_Halloween/Materials/MDungeons_Ladel.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Halloween - AstrofishGames/DETAILED_Halloween/Materials/MDungeons_Pot.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Halloween - AstrofishGames/DETAILED_Halloween/Materials/MDungeons_Pot.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Halloween - AstrofishGames/DETAILED_Halloween/Materials/MDungeons_Tombstones.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Halloween - AstrofishGames/DETAILED_Halloween/Materials/MDungeons_Tombstones.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Halloween - AstrofishGames/DETAILED_Halloween/Materials/MDungeons_WitchesCouldron.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Halloween - AstrofishGames/DETAILED_Halloween/Materials/MDungeons_WitchesCouldron.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Laterns and candles/Materials/Candle2_colormap.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Laterns and candles/Materials/Candle2_colormap.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Laterns and candles/Materials/CarvedLampPost.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Laterns and candles/Materials/CarvedLampPost.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Laterns and candles/Materials/CarvedLampPost2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Laterns and candles/Materials/CarvedLampPost2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packs/Laterns and candles/Materials/Lamp2colormap.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packs/Laterns and candles/Materials/Lamp2colormap.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/BrainPuntaje Variant 1.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/BrainPuntaje Variant 1.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Enormizar.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Enormizar.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/JuanPastor Scene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/JuanPastor Scene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/LightingData.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/LightingData.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-0_comp_dir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-0_comp_dir.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-0_comp_light.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-0_comp_light.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-10_comp_dir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-10_comp_dir.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-10_comp_light.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-10_comp_light.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-11_comp_dir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-11_comp_dir.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-11_comp_light.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-11_comp_light.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-12_comp_dir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-12_comp_dir.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-12_comp_light.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-12_comp_light.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-13_comp_dir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-13_comp_dir.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-13_comp_light.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-13_comp_light.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-14_comp_dir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-14_comp_dir.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-14_comp_light.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-14_comp_light.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-15_comp_dir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-15_comp_dir.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-15_comp_light.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-15_comp_light.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-1_comp_dir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-1_comp_dir.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-1_comp_light.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-1_comp_light.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-2_comp_dir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-2_comp_dir.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-2_comp_light.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-2_comp_light.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-3_comp_dir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-3_comp_dir.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-3_comp_light.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-3_comp_light.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-4_comp_dir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-4_comp_dir.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-4_comp_light.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-4_comp_light.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-5_comp_dir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-5_comp_dir.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-5_comp_light.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-5_comp_light.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-6_comp_dir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-6_comp_dir.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-6_comp_light.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-6_comp_light.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-7_comp_dir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-7_comp_dir.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-7_comp_light.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-7_comp_light.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-8_comp_dir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-8_comp_dir.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-8_comp_light.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-8_comp_light.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-9_comp_dir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-9_comp_dir.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-9_comp_light.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/Lightmap-9_comp_light.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/ReflectionProbe-0.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Nivel 1 JP/ReflectionProbe-0.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Practica clases.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Practica clases.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Electronic Highway Sign SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Electronic Highway Sign SDF.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,26 +131,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Jonatanesp-1-0&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Jonatanesp-2-0",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;rider.external.source.directories&quot;: [
-      &quot;C:\\Users\\Xonathan\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache&quot;,
-      &quot;C:\\Users\\Xonathan\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache&quot;,
-      &quot;C:\\Users\\Xonathan\\AppData\\Local\\Symbols\\src&quot;
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\Xonathan\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
+      "C:\\Users\\Xonathan\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
+      "C:\\Users\\Xonathan\\AppData\\Local\\Symbols\\src"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.0.47f1\Editor\Unity.exe" />
@@ -94,6 +200,8 @@
       <workItem from="1745354747213" duration="857000" />
       <workItem from="1745417777060" duration="9000" />
       <workItem from="1745420897104" duration="3620000" />
+      <workItem from="1745544093029" duration="3000" />
+      <workItem from="1745544368800" duration="371000" />
     </task>
     <servers />
   </component>
