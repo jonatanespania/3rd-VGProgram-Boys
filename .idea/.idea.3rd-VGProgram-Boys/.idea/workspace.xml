@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2910f068-31e5-42e7-887f-64f00d883975" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.3rd-VGProgram-Boys/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.3rd-VGProgram-Boys/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/BrainPuntaje Variant.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/BrainPuntaje Variant.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/BrainVariant.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/BrainVariant.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/TorreMagicaViolenta Final.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/TorreMagicaViolenta Final.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Practica clases.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Practica clases.unity" afterDir="false" />
-    </list>
+    <list default="true" id="2910f068-31e5-42e7-887f-64f00d883975" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +93,7 @@
       <updated>1745354744987</updated>
       <workItem from="1745354747213" duration="857000" />
       <workItem from="1745417777060" duration="9000" />
-      <workItem from="1745420897104" duration="2974000" />
+      <workItem from="1745420897104" duration="3620000" />
     </task>
     <servers />
   </component>
