@@ -4524,7 +4524,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializedBakingSet: {fileID: 11400000, guid: 174fcb0962ab8ab43b3b5288e827ab40, type: 2}
-  sceneGUID: f43b6afcc90c78346aefd48a6c886116
+  sceneGUID: f64cbb30cf5ec514c86aa1791789a4fc
   obsoleteAsset: {fileID: 0}
   obsoleteCellSharedDataAsset: {fileID: 0}
   obsoleteCellSupportDataAsset: {fileID: 0}
@@ -11854,7 +11854,7 @@ Transform:
   - {fileID: 1035508812}
   - {fileID: 752512144}
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0.847, y: -2.413, z: -0.903}
 --- !u!1 &1645078494 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1309064170892843699, guid: 13291401d415aa04a83e714adf2d8f32, type: 3}

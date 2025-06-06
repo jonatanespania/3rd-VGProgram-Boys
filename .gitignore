@@ -70,12 +70,3 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
-Assets/Scenes/JuanPastor Scene/JuanPastor Scene Baking Set-Default.CellData.bytes
-Assets/Scenes/JuanPastor Scene/JuanPastor Scene Baking Set-Default.CellOptionalData.bytes
-Assets/Scenes/JuanPastor Scene/JuanPastor Scene Baking Set-Default.CellOptionalData.bytes.meta
-Assets/Scenes/JuanPastor Scene/JuanPastor Scene Baking Set-Default.CellProbeOcclusionData.bytes
-Assets/Scenes/JuanPastor Scene/JuanPastor Scene Baking Set-Default.CellProbeOcclusionData.bytes.meta
-Assets/Scenes/JuanPastor Scene/JuanPastor Scene Baking Set.CellBricksData.bytes
-Assets/Scenes/JuanPastor Scene/JuanPastor Scene Baking Set.CellBricksData.bytes
-Assets/Scenes/JuanPastor Scene/JuanPastor Scene Baking Set.CellSharedData.bytes
-Assets/Scenes/JuanPastor Scene/JuanPastor Scene Baking Set.CellSupportData.bytes
