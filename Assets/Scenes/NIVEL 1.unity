@@ -6028,6 +6028,80 @@ Terrain:
   m_EnableHeightmapRayTracing: 1
   m_EnableTreesAndDetailsRayTracing: 0
   m_TreeMotionVectorModeOverride: 3
+--- !u!1001 &741356779
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2113699866}
+    m_Modifications:
+    - target: {fileID: 6071534280389840616, guid: 674be6bc09ac8e248b190b36b1d2c62f, type: 3}
+      propertyPath: m_Name
+      value: FirewoodStackBlackCherry01_LOD
+      objectReference: {fileID: 0}
+    - target: {fileID: 6848212442582750290, guid: 674be6bc09ac8e248b190b36b1d2c62f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.61757165
+      objectReference: {fileID: 0}
+    - target: {fileID: 6848212442582750290, guid: 674be6bc09ac8e248b190b36b1d2c62f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.617572
+      objectReference: {fileID: 0}
+    - target: {fileID: 6848212442582750290, guid: 674be6bc09ac8e248b190b36b1d2c62f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.61757165
+      objectReference: {fileID: 0}
+    - target: {fileID: 6848212442582750290, guid: 674be6bc09ac8e248b190b36b1d2c62f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.013058841
+      objectReference: {fileID: 0}
+    - target: {fileID: 6848212442582750290, guid: 674be6bc09ac8e248b190b36b1d2c62f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.21972343
+      objectReference: {fileID: 0}
+    - target: {fileID: 6848212442582750290, guid: 674be6bc09ac8e248b190b36b1d2c62f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.017383099
+      objectReference: {fileID: 0}
+    - target: {fileID: 6848212442582750290, guid: 674be6bc09ac8e248b190b36b1d2c62f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.02341944
+      objectReference: {fileID: 0}
+    - target: {fileID: 6848212442582750290, guid: 674be6bc09ac8e248b190b36b1d2c62f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6848212442582750290, guid: 674be6bc09ac8e248b190b36b1d2c62f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.9997258
+      objectReference: {fileID: 0}
+    - target: {fileID: 6848212442582750290, guid: 674be6bc09ac8e248b190b36b1d2c62f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6848212442582750290, guid: 674be6bc09ac8e248b190b36b1d2c62f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6848212442582750290, guid: 674be6bc09ac8e248b190b36b1d2c62f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -45
+      objectReference: {fileID: 0}
+    - target: {fileID: 6848212442582750290, guid: 674be6bc09ac8e248b190b36b1d2c62f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 674be6bc09ac8e248b190b36b1d2c62f, type: 3}
+--- !u!4 &741356780 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6848212442582750290, guid: 674be6bc09ac8e248b190b36b1d2c62f, type: 3}
+  m_PrefabInstance: {fileID: 741356779}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &743764187 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4251879001931670, guid: e965607d197150b43a6dabdf25ed1ac5, type: 3}
@@ -17860,7 +17934,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1255053967005034564, guid: 2ee7574cb1211da4ba89d1838327b5c4, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 0.06
       objectReference: {fileID: 0}
     - target: {fileID: 1255053967005034564, guid: 2ee7574cb1211da4ba89d1838327b5c4, type: 3}
       propertyPath: m_LocalPosition.y
@@ -21711,7 +21785,7 @@ GameObject:
   - component: {fileID: 2113699868}
   - component: {fileID: 2113699867}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: fogata
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21730,6 +21804,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 741356780}
   - {fileID: 1465317241}
   m_Father: {fileID: 25013489}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
