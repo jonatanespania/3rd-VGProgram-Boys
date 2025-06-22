@@ -13,10 +13,7 @@ public class PlayerController : MonoBehaviour
     public AudioClip deathUISound; // Referencia al AudioSource de la UI de muerte
     public float deathVolume = 1f;
     public AudioClip painDeathSound;
-    private bool isDead = false;    // Referencias para las cámaras
-    public Camera thirdPersonCamera; // Cámara en tercera persona (la cámara principal actual)
-    public Camera firstPersonCamera; // Cámara en primera persona (la cámara adicional)
-    private bool isFirstPersonView = false;
+    private bool isDead = false;
 
     private float x, y;
     public Rigidbody rb;
@@ -45,8 +42,7 @@ public class PlayerController : MonoBehaviour
     public Text scoreText;
     public ScoreBar scoreBar; // Añadir referencia al ScoreBar
     public int pointsToWin = 10;
-    private List<Renderer> renderers = new List<Renderer>();    // Referencia al modelo completo del personaje
-    public GameObject characterModel;
+    private List<Renderer> renderers = new List<Renderer>();
     
     private void Start()
     {
@@ -55,34 +51,6 @@ public class PlayerController : MonoBehaviour
         UpdateHealthUI();
         deathUI.SetActive(false); // Asegúrate de que la UI esté desactivada al inicio
         renderers.AddRange(GetComponentsInChildren<Renderer>());
-        
-        // Configuración inicial de las cámaras
-        if (thirdPersonCamera != null && firstPersonCamera != null)
-        {
-            // Asegurarse que comienza en tercera persona
-            thirdPersonCamera.enabled = true;
-            firstPersonCamera.enabled = false;
-            isFirstPersonView = false;
-        }
-        else
-        {
-            Debug.LogWarning("Faltan referencias a las cámaras. Asigna las cámaras en el Inspector.");
-        }
-        
-        // Si no tenemos la referencia al modelo del personaje, intentamos encontrarlo automáticamente
-        if (characterModel == null)
-        {
-            // Buscar el primer hijo que tenga un Renderer (probablemente el modelo del personaje)
-            for (int i = 0; i < transform.childCount; i++)
-            {
-                if (transform.GetChild(i).GetComponentInChildren<Renderer>() != null)
-                {
-                    characterModel = transform.GetChild(i).gameObject;
-                    Debug.Log("Modelo del personaje detectado automáticamente: " + characterModel.name);
-                    break;
-                }
-            }
-        }
     }
 
     void Update()
@@ -94,12 +62,6 @@ public class PlayerController : MonoBehaviour
         }
 
         isGrounded = Physics.CheckSphere(groundCheck.position, groundDistance, groundMask);
-
-        // Comprobación de tecla para cambiar vista de cámara (tecla C)
-        if (Input.GetKeyDown(KeyCode.C))
-        {
-            ToggleCameraView();
-        }
 
         x = Input.GetAxis("Horizontal");
         y = Input.GetAxis("Vertical");
@@ -158,6 +120,7 @@ public class PlayerController : MonoBehaviour
 
     private void Jump()
     {
+        Debug.Log("llegue al metodo");
         rb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
         animator.Play("Jump");
     }
@@ -335,63 +298,6 @@ public class PlayerController : MonoBehaviour
         if (healthBar != null)
         {
             healthBar.UpdateHealth(currentHealth);
-        }
-    }    // Método para alternar entre vista en primera y tercera persona
-    private void ToggleCameraView()
-    {
-        if (thirdPersonCamera == null || firstPersonCamera == null)
-        {
-            Debug.LogWarning("Faltan referencias a las cámaras. Asigna las cámaras en el Inspector.");
-            return;
-        }
-        
-        isFirstPersonView = !isFirstPersonView;
-        
-        if (isFirstPersonView)
-        {
-            // Cambiar a primera persona
-            thirdPersonCamera.enabled = false;
-            firstPersonCamera.enabled = true;
-            
-            // Ocultar todo el modelo del personaje si está asignado
-            if (characterModel != null)
-            {
-                characterModel.SetActive(false);
-                Debug.Log("Modelo del personaje oculto: " + characterModel.name);
-            }
-            else
-            {
-                // Plan B: Desactivar todos los renderers
-                foreach (var renderer in renderers)
-                {
-                    renderer.enabled = false;
-                    Debug.Log("Ocultando: " + renderer.gameObject.name);
-                }
-            }
-            
-            Debug.Log("Activada vista en primera persona");
-        }
-        else
-        {
-            // Volver a tercera persona
-            firstPersonCamera.enabled = false;
-            thirdPersonCamera.enabled = true;
-            
-            // Mostrar todo el modelo del personaje si está asignado
-            if (characterModel != null)
-            {
-                characterModel.SetActive(true);
-            }
-            else
-            {
-                // Plan B: Activar todos los renderers
-                foreach (var renderer in renderers)
-                {
-                    renderer.enabled = true;
-                }
-            }
-            
-            Debug.Log("Activada vista en tercera persona");
         }
     }
 }

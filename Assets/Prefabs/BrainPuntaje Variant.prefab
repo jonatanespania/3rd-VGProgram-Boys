@@ -5,7 +5,6 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 2386249694679417144, guid: e55ca66d4c33e2445adfd008bdbe28e9, type: 3}
@@ -15,14 +14,6 @@ PrefabInstance:
     - target: {fileID: 2386249694679417146, guid: e55ca66d4c33e2445adfd008bdbe28e9, type: 3}
       propertyPath: m_LocalPosition.y
       value: -0.00078
-      objectReference: {fileID: 0}
-    - target: {fileID: 2386249695251944677, guid: e55ca66d4c33e2445adfd008bdbe28e9, type: 3}
-      propertyPath: escalaMinima
-      value: 0.91
-      objectReference: {fileID: 0}
-    - target: {fileID: 2386249695251944677, guid: e55ca66d4c33e2445adfd008bdbe28e9, type: 3}
-      propertyPath: velocidadPulso
-      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 2780708925779100949, guid: e55ca66d4c33e2445adfd008bdbe28e9, type: 3}
       propertyPath: m_RootOrder
@@ -73,41 +64,8 @@ PrefabInstance:
       value: BrainPuntaje Variant
       objectReference: {fileID: 0}
     - target: {fileID: 3953101461349318266, guid: e55ca66d4c33e2445adfd008bdbe28e9, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
+      propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 82cf8fa6747923144ac31a569f2c4a86, type: 2}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 3304728044075360175, guid: e55ca66d4c33e2445adfd008bdbe28e9, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: -608057456167849840}
   m_SourcePrefab: {fileID: 100100000, guid: e55ca66d4c33e2445adfd008bdbe28e9, type: 3}
---- !u!1 &4525800610217055834 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3304728044075360175, guid: e55ca66d4c33e2445adfd008bdbe28e9, type: 3}
-  m_PrefabInstance: {fileID: 1374194958648068597}
-  m_PrefabAsset: {fileID: 0}
---- !u!95 &-608057456167849840
-Animator:
-  serializedVersion: 7
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4525800610217055834}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: a16830f8e1a41d649ada168c75d1eaec, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_AnimatePhysics: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
