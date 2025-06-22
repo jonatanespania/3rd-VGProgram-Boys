@@ -1,64 +1,50 @@
-using System.Collections.Generic;
+
 using UnityEngine;
-using UnityEngine.AI;
+
+
 
 public class ScenePauseController : MonoBehaviour
 {
-    private List<Behaviour> behavioursToPause;
-    private List<Rigidbody> rigidbodiesToPause;
-    private List<NavMeshAgent> agentsToPause;
+    private bool isPaused = false;
+    private AudioSource[] allAudioSources;
 
-    void Awake()
+    void Update()
     {
-        behavioursToPause = new List<Behaviour>();
-        rigidbodiesToPause = new List<Rigidbody>();
+        if (Input.GetKeyDown(KeyCode.P)) // Asignamos la tecla P para pausar y reanudar
+        {
+            if (isPaused)
+            {
+                ResumeScene();
+            }
+            else
+            {
+                PauseScene();
+            }
+        }
     }
 
     public void PauseScene()
     {
-     
-        foreach (var behaviour in FindObjectsOfType<MonoBehaviour>())
+        Time.timeScale = 0f; // Pausar la escena
+
+        allAudioSources = FindObjectsOfType<AudioSource>();
+        foreach (var audioSource in allAudioSources)
         {
-            if (behaviour.enabled && behaviour.gameObject.activeInHierarchy)
-            {
-                behavioursToPause.Add(behaviour);
-                behaviour.enabled = false;
-            }
+            audioSource.Pause(); // Pausar todos los sonidos
         }
 
-        
-        foreach (var rb in FindObjectsOfType<Rigidbody>())
-        {
-            if (!rb.isKinematic && rb.gameObject.activeInHierarchy)
-            {
-                rigidbodiesToPause.Add(rb);
-                rb.isKinematic = true;
-            }
-        }
-   
+        isPaused = true;
     }
 
     public void ResumeScene()
     {
-        
-        foreach (var behaviour in behavioursToPause)
-        {
-            if (behaviour != null)
-            {
-                behaviour.enabled = true;
-            }
-        }
-        behavioursToPause.Clear();
+        Time.timeScale = 1f; // Reanudar la escena
 
-        
-        foreach (var rb in rigidbodiesToPause)
+        foreach (var audioSource in allAudioSources)
         {
-            if (rb != null)
-            {
-                rb.isKinematic = false;
-            }
+            audioSource.UnPause(); // Reanudar todos los sonidos
         }
-        rigidbodiesToPause.Clear();
-        agentsToPause.Clear();
+
+        isPaused = false;
     }
 }
