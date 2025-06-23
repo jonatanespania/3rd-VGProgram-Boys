@@ -8,6 +8,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2386249695251944677, guid: e55ca66d4c33e2445adfd008bdbe28e9, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2386249695251944677, guid: e55ca66d4c33e2445adfd008bdbe28e9, type: 3}
+      propertyPath: amplitudPulso
+      value: 0.004
+      objectReference: {fileID: 0}
     - target: {fileID: 2780708925779100949, guid: e55ca66d4c33e2445adfd008bdbe28e9, type: 3}
       propertyPath: m_LocalPosition.x
       value: -4.291239
@@ -59,7 +67,38 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 3304728044075360175, guid: e55ca66d4c33e2445adfd008bdbe28e9, type: 3}
       insertIndex: -1
       addedObject: {fileID: -5207601737676463199}
+    - targetCorrespondingSourceObject: {fileID: 3304728044075360175, guid: e55ca66d4c33e2445adfd008bdbe28e9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2664299651876028487}
+    - targetCorrespondingSourceObject: {fileID: 2386249694679417149, guid: e55ca66d4c33e2445adfd008bdbe28e9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4258052899684192733}
   m_SourcePrefab: {fileID: 100100000, guid: e55ca66d4c33e2445adfd008bdbe28e9, type: 3}
+--- !u!1 &7418547982668568619 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2386249694679417149, guid: e55ca66d4c33e2445adfd008bdbe28e9, type: 3}
+  m_PrefabInstance: {fileID: 5183171899859327254}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &4258052899684192733
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7418547982668568619}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 486b15a7b073cd74db08c0520f04cf14, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  minScale: 0.8
+  maxScale: 2
+  pulsationSpeed: 10
+  glowColor: {r: 0.22249912, g: 0.31517082, b: 0.3773585, a: 0.3}
+  emissionIntensity: 1.5
+  randomizeColor: 1
+  isAttachedToBrain: 1
+  offsetFromBrain: 0.1
 --- !u!1 &7652341186988132025 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3304728044075360175, guid: e55ca66d4c33e2445adfd008bdbe28e9, type: 3}
@@ -87,3 +126,23 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &2664299651876028487
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7652341186988132025}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 486b15a7b073cd74db08c0520f04cf14, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  minScale: 0.8
+  maxScale: 1.2
+  pulsationSpeed: 1
+  glowColor: {r: 0.5, g: 0.8, b: 1, a: 0.3}
+  emissionIntensity: 1.5
+  randomizeColor: 0
+  isAttachedToBrain: 1
+  offsetFromBrain: 0.1
