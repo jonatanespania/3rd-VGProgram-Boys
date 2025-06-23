@@ -8,6 +8,8 @@ TagManager:
   - Terrain
   - CinemachineTarget
   - HideInFPS
+  - Pushable
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -15,7 +17,7 @@ TagManager:
   - Terrain
   - Water
   - UI
-  - HideInFPS
+  - 
   - 
   - 
   - 
